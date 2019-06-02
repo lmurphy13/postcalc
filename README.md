@@ -1,4 +1,4 @@
-## Postfix (Reverse Polish) Calculator in C ##
+## Postfix (Reverse Polish Notation) Calculator in C ##
 Author: Liam M. Murphy
 
 ### WIP ###
